@@ -1,3 +1,4 @@
+![logo](https://github.com/shaurya35/Shaurya35/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Shaurya Jha</h1>
 <h3 align="center">An Aspiring Full-Stack developer from India</h3>
 
