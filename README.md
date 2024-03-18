@@ -7,7 +7,7 @@
 <h3 align="center">An Aspiring Full-Stack developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
+<p align="left"> <a href="https://github.com/shaurya35/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
 - 🔭 I’m currently working on [Full-Stack Web-App based on DjangoRestFramework + ReactJs](https://github.com/shaurya35/Web-Apps-Basic)
