@@ -22,7 +22,7 @@
 
 - 📝 I post content on [https://www.linkedin.com/in/shaurya--jha/](https://www.linkedin.com/in/shaurya--jha/)
 
-- 💬 Ask me about **JavaScript, Git/Github**
+- 💬 Ask me about **Express, ReactJs**
 
 - 📫 How to reach me **shauryajha35@gmail.com**
 
