@@ -10,13 +10,13 @@
 <p align="left"> <a href="https://shauryacreativefolio.netlify.app/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
-- 🔭 I’m currently working on [Full-Stack Web-App based on DjangoRestFramework + ReactJs](https://github.com/shaurya35/Web-Apps-Basic)
+- 🔭 I’m currently working on [Yelp-Camp](https://github.com/shaurya35/Full-Stack-Web-Applications)
 
-- 🌱 I’m currently learning **DjangoRestFramework + ReactJs**
+- 🌱 I’m currently learning **Next.Js**
 
-- 👯 I’m looking to collaborate on [Portfolio Websites](https://github.com/shaurya35/JavaScript-Projects/tree/main/Portfolio)
+- 👯 I’m looking to collaborate on [Portfolio Websites](https://github.com/shaurya35/Portfolio-1)
 
-- 🤝 I’m looking for help with [DjangoRestFramework](https://github.com/shaurya35/Web-Apps-Basic)
+- 🤝 I’m looking for help with [Yelp-Camp](https://github.com/shaurya35/Full-Stack-Web-Applications)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shaurya35](https://github.com/shaurya35)
 
