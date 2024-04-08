@@ -49,19 +49,21 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
-  <a href="https://shauryacreativefolio.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,cpp,css,django,express,figma,gcp,github,git,html,java,jquery,mongodb,nodejs,postman,py,react,tailwind" />
+  <a href="https://shauryacreativefolio.netlify.app/" >
+    <img src="https://skillicons.dev/icons?i=express,figma,gcp,github,git,html,java,jquery,mongodb,nodejs" />
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,cpp,css,django,postman,py,react,tailwind" />
   </a>
 </p>
 <hr/>
 <div align="center">
 <h2 align="center">⚡ Stats ⚡</h2>
 
+<div align=center>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&theme=tokyonight" alt="shaurya35" /></p>
+
+![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya35&layout=donut&theme=tokyonight)
+
+![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaurya35&show_icons=true&theme=tokyonight)
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaurya35&show_icons=true&locale=en&layout=compact" alt="shaurya35" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaurya35&show_icons=true&locale=en" alt="shaurya35" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&" alt="shaurya35" /></p>
-![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaurya35&show_icons=true&theme=tokyonight)
