@@ -64,3 +64,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaurya35&show_icons=true&locale=en" alt="shaurya35" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&" alt="shaurya35" /></p>
+![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaurya35&show_icons=true&theme=tokyonight)
