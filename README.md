@@ -6,7 +6,6 @@
 </h1>
 <h3 align="center">An Aspiring Full-Stack developer from India</h3>
 
-
 <p align="left"> <a href="https://shauryacreativefolio.netlify.app/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
@@ -65,5 +64,3 @@
 
 ![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaurya35&show_icons=true&theme=tokyonight)
 </div>
-
-
