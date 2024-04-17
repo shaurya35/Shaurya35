@@ -49,7 +49,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://shauryacreativefolio.netlify.app/" >
-     <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,MySQL,vite" />
+     <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,mysql,vite" />
     <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman" />
   </a>
 </p>
