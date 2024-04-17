@@ -17,15 +17,15 @@
 
 - 🤝 I’m looking for help with [Yelp-Camp](https://github.com/shaurya35/Full-Stack-Web-Applications)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shaurya35](https://github.com/shaurya35)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/shaurya35)
 
-- 📝 I post content on [https://www.linkedin.com/in/shaurya--jha/](https://www.linkedin.com/in/shaurya--jha/)
+- 📝 I post content on [Linkedin](https://www.linkedin.com/in/shaurya--jha/)
 
 - 💬 Ask me about **Express, ReactJs**
 
 - 📫 How to reach me **shauryajha35@gmail.com**
 
-- 📄 Know about my experiences [https://shauryacreativefolio.netlify.app/](https://shauryacreativefolio.netlify.app/)
+- 📄 Know about my experiences [here](https://shauryacreativefolio.netlify.app/)
 
 - ⚡ Fun fact **Meet me and you'll know (Maybe)**
 <hr/>
