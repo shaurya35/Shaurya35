@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://shauryacreativefolio.netlify.app/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
-- 🔭 I’m currently working on [Yelp-Camp](https://github.com/shaurya35/Full-Stack-Web-Applications)
+- 🔭 I’m currently working on [TriviaJs](https://github.com/shaurya35/TriviaJs)
 
 - 🌱 I’m currently learning **Next.Js**
 
