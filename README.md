@@ -50,7 +50,8 @@
 <p align="center">
   <a href="https://shauryacreativefolio.netlify.app/" >
      <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,mysql,next,vite" />
-    <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman,selenium" />
+<!--      docker,graphql,kubernetes,redis,selenium -->
   </a>
 </p>
 <hr/>
