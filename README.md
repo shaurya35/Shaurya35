@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Portfolio Websites](https://github.com/shaurya35/Portfolio-1)
 
-- 🤝 I’m looking for help with [Yelp-Camp](https://github.com/shaurya35/Full-Stack-Web-Applications)
+- 🤝 I’m looking for help with [Stockwise](https://github.com/shaurya35/Stockwise-Inventory-Manager)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/shaurya35)
 
@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **shauryajha35@gmail.com**
 
-- 📄 Know about my experiences [here](https://shauryacreativefolio.netlify.app/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/shaurya--jha/)
 
 - ⚡ Fun fact **Meet me and you'll know (Maybe)**
 <hr/>
