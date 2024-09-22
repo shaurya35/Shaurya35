@@ -49,9 +49,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://shauryacreativefolio.netlify.app/" >
-     <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,mysql,next,vite" />
-    <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman,selenium" />
-<!--      docker,graphql,kubernetes,redis,selenium -->
+<!--      <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,mysql,next,vite" /> -->
+<!--    <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman,selenium" />  -->
+    <!-- docker,graphql,kubernetes,redis,selenium --> 
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,django,docker,bootstrap,ts,mongodb,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,gcp,mysql,java,cpp,py,bash,vite,npm,pnpm,figma,redux,postman,selenium,firebase,bun" />
+
   </a>
 </p>
 <hr/>
