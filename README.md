@@ -70,9 +70,9 @@
 ![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaurya35&show_icons=true&theme=tokyonight)
 </div>
 
+<hr/>
 <div align="center">
 <h2 align="center">⚡ My Badges ⚡</h2>
 
-<div align=center>
 [![An image of @shaurya35's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaurya35)](https://holopin.io/@shaurya35)
 
