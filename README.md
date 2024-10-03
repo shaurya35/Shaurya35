@@ -54,7 +54,7 @@
     <!-- docker,graphql,kubernetes,redis,selenium --> 
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,django,docker,bootstrap,ts,mongodb,postgres,prisma" />
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,gcp,mysql,java,cpp,py,bash,vite,npm,pnpm,figma,redux,postman,selenium,firebase,bun" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,gcp,mysql,java,cpp,py,bash,vite,npm,pnpm,figma,postman,selenium,firebase,bun" />
 
   </a>
 </p>
