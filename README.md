@@ -9,13 +9,13 @@
 <p align="left"> <a href="https://shauryacreativefolio.netlify.app/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
-- 🔭 I’m currently working on [TriviaJs](https://github.com/shaurya35/TriviaJs)
+- 🔭 I’m currently working on [Framer Clone](https://github.com/shaurya35/Viewport-Framer-Clone)
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Blockchain and DevOps**
 
-- 👯 I’m looking to collaborate on [Portfolio Websites](https://github.com/shaurya35/Portfolio-1)
+- 👯 I’m looking to collaborate on [Portfolio Websites](https://github.com/shaurya35/shaurya35.github.io)
 
-- 🤝 I’m looking for help with [Stockwise](https://github.com/shaurya35/Stockwise-Inventory-Manager)
+- 🤝 I’m looking for help with [Framer Clone](https://github.com/shaurya35/Viewport-Framer-Clone)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/shaurya35)
 
