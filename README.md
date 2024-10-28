@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">An Aspiring Full-Stack developer from India</h3>
 
-<p align="left"> <a href="https://shauryacreativefolio.netlify.app/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
+<p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
 - 🔭 I’m currently working on [Framer Clone](https://github.com/shaurya35/Viewport-Framer-Clone)
@@ -39,7 +39,7 @@
   <a href="https://linkedin.com/in/shaurya--jha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://shauryacreativefolio.netlify.app/" target="_blank">
+  <a href="https://www.shauryacodes.me/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -48,7 +48,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
-  <a href="https://shauryacreativefolio.netlify.app/" >
+  <a href="https://www.shauryacodes.me/" >
 <!--      <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,mysql,next,vite" /> -->
 <!--    <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman,selenium" />  -->
     <!-- docker,graphql,kubernetes,redis,selenium --> 
