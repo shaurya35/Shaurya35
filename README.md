@@ -64,7 +64,7 @@
 
 <div align=center>
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&theme=tokyonight" alt="shaurya35" /></p> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shaurya35&theme=tokyonight&border_radius=9" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shaurya35&theme=tokyonight&border_radius=9)](https://git.io/streak-stats)
    
 ![Shaurya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya35&layout=donut&theme=tokyonight)
 
