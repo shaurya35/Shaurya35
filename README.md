@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
-- 🔭 I’m currently working on [Developer's Hub](https://github.com/shaurya35/ITER-Social-Connect)
+- 🔭 I’m currently working on [Developers Hub](https://github.com/shaurya35/ITER-Social-Connect)
 
 - 🌱 I’m currently learning **Blockchain and DevOps**
 
