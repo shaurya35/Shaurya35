@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Developers Hub](https://github.com/shaurya35/ITER-Social-Connect)
 
-- 🌱 I’m currently learning **Blockchain and DevOps**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👯 I’m looking to collaborate on [Portfolio Websites](https://github.com/shaurya35/shaurya35.github.io)
 
@@ -22,7 +22,7 @@
 
 - 📝 I post content on [Linkedin](https://www.linkedin.com/in/shaurya--jha/)
 
-- 💬 Ask me about **Express, ReactJs**
+- 💬 Ask me about **NextJs, TypeScript**
 
 - 📫 How to reach me **shauryajha35@gmail.com**
 
