@@ -9,23 +9,23 @@
 <p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
-- 🔭 I’m currently working on [Developers Hub](https://github.com/shaurya35/ITER-Social-Connect)
+- 🔭 I’m currently working on [Upbot](https://www.upbot.space/)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **AI Agents**
 
-- 👯 I’m looking to collaborate on [Portfolio Websites](https://github.com/shaurya35/shaurya35.github.io)
+- 👯 I’m looking to collaborate on [n8n for developers](https://github.com/shaurya35/flowly)
 
 - 🤝 I’m looking for help with [Framer Clone](https://github.com/shaurya35/Viewport-Framer-Clone)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/shaurya35)
 
-- 📝 I post content on [Linkedin](https://www.linkedin.com/in/shaurya--jha/)
+- 📝 I post content on [Twitter](https://twitter.com/_shaurya35)
 
-- 💬 Ask me about **NextJs, TypeScript**
+- 💬 Ask me about **Scaling Backends, Building Architectures**
 
 - 📫 How to reach me **shauryajha35@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/shaurya--jha/)
+- 📄 Know about my experiences [here](https://twitter.com/_shaurya35)
 
 - ⚡ Fun fact **Meet me and you'll know (Maybe)**
 <hr/>
@@ -49,12 +49,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://www.shauryacodes.me/" >
-<!--      <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,tailwind,react,express,nodejs,django,mysql,next,vite" /> -->
-<!--    <img src="https://skillicons.dev/icons?i=java,cpp,py,bash,git,github,gcp,figma,mongodb,redux,bootstrap,ts,postman,selenium" />  -->
-    <!-- docker,graphql,kubernetes,redis,selenium --> 
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,django,docker,bootstrap,ts,mongodb,postgres,prisma" />
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,gcp,mysql,java,c,cpp,py,bash,vite,npm,pnpm,figma,postman,selenium,firebase,bun" />
+<!-- <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,django,docker,bootstrap,ts,mongodb,postgres,prisma" /> -->
+<!-- <img src="https://skillicons.dev/icons?i=git,github,gitlab,gcp,mysql,java,c,cpp,py,bash,vite,npm,pnpm,figma,postman,selenium,firebase,bun" /> -->
+<img src="https://skillicons.dev/icons?i=next,tailwind,nodejs,express,postgres,prisma,aws,docker,git" />
+<img src="https://skillicons.dev/icons?i=ts,rust,java,c,cpp,py" />
 
   </a>
 </p>
