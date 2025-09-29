@@ -53,6 +53,7 @@
 <!-- <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,django,docker,bootstrap,ts,mongodb,postgres,prisma" /> -->
 <!-- <img src="https://skillicons.dev/icons?i=git,github,gitlab,gcp,mysql,java,c,cpp,py,bash,vite,npm,pnpm,figma,postman,selenium,firebase,bun" /> -->
 <img src="https://skillicons.dev/icons?i=next,tailwind,nodejs,express,postgres,prisma,aws,docker,git" />
+<br/>
 <img src="https://skillicons.dev/icons?i=ts,rust,java,c,cpp,py" />
 
   </a>
