@@ -9,17 +9,17 @@
 <p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
 <hr/>
 
-- 🔭 I’m currently working on [Upbot](https://www.upbot.space/)
+- 🔭 I’m currently working on an AI uptime monitoring platform- [Upbot](https://www.upbot.space/)
 
 - 🌱 I’m currently learning **AI Agents**
 
 - 👯 I’m looking to collaborate on [n8n for developers](https://github.com/shaurya35/flowly)
 
-- 🤝 I’m looking for help with [Framer Clone](https://github.com/shaurya35/Viewport-Framer-Clone)
+- 🤝 I’m looking for help with [AI Notetaker](https://github.com/shaurya35/nimble)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/shaurya35)
 
-- 📝 I post content on [Twitter](https://twitter.com/_shaurya35)
+- 📝 I post blogs on [Twitter](https://twitter.com/_shaurya35)
 
 - 💬 Ask me about **Scaling Backends, Building Architectures**
 
