@@ -78,5 +78,6 @@
 <div align="center">
 <h2 align="center">⚡ My Badges ⚡</h2>
 
+
 [![An image of @shaurya35's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaurya35)](https://holopin.io/@shaurya35)
 
