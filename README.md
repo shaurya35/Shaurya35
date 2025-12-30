@@ -21,17 +21,17 @@
 
 <hr/>
 
-- 🔭 I’m currently working on an AI uptime monitoring platform- [Upbot](https://www.upbot.space/)
+- 🔭 I’m currently working on an AI uptime monitoring platform [upbot](https://www.upbot.space/)
 
-- 🌱 I’m currently learning **AI Agents**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on [n8n for developers](https://github.com/shaurya35/flowly)
+- 👯 I’m looking to collaborate on [n8n for content-writers](https://github.com/shaurya35/flowly)
 
 - 🤝 I’m looking for help with [AI Notetaker](https://github.com/shaurya35/nimble)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/shaurya35)
+- 👨‍💻 All of my projects are available at [github](https://github.com/shaurya35)
 
-- 📝 I post blogs on [Twitter](https://twitter.com/_shaurya35)
+- 📝 I post blogs on my [portfolio](https://www.shauryacodes.me/blogs)
 
 - 💬 Ask me about **Scaling Backends, Building Architectures**
 
