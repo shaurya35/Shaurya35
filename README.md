@@ -7,7 +7,18 @@
 </h1>
 <h3 align="center">A Full-Stack AI Engineer</h3>
 
-<p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p>
+<!-- <p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p> -->
+<!-- <p align="center">
+  <a href="https://github.com/shaurya35">
+    <img src="https://github-trophies.vercel.app/?username=shaurya35&title=MultiLanguage,LongTimeUser,Repositories,Commits,Followers,Issues,PullRequest,Stars" alt="GitHub Trophies" />
+  </a>
+</p> -->
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=shaurya35&title=MultiLanguage,LongTimeUser,Repositories,Commits,Followers,Issues,PullRequest,Stars&theme=dark"
+       alt="GitHub Trophies"
+       style="max-width:100%;height:auto;" />
+</p>
+
 <hr/>
 
 - 🔭 I’m currently working on an AI uptime monitoring platform- [Upbot](https://www.upbot.space/)
