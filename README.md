@@ -18,7 +18,6 @@
        alt="GitHub Trophies"
        style="max-width:100%;height:auto;" />
 </p> -->
-
 <hr/>
 
 - 🔭 I’m currently working on an AI uptime monitoring platform [upbot](https://www.upbot.space/)
