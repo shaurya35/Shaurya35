@@ -66,7 +66,6 @@
 
   </a>
 </p>
-<hr/>
 <!-- <div align="center"> -->
 <!-- <h2 align="center">⚡ Stats ⚡</h2> -->
    
