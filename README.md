@@ -6,7 +6,7 @@
 <!-- <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Shaurya;Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </h1> -->
-<h3 align="center">A Full-Stack AI Engineer</h3>
+<h4 align="center">Full-Stack & AI Engineer. Founder of [DhwaniLabs](http://dhwanilabs.com/) (voice-AI for blue-collar recruitment). I build end-to-end products and scalable backend systems, and currently Rust/Solana.</h4>
 
 <!-- <p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p> -->
  <!-- <p align="center">
