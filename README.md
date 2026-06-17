@@ -64,8 +64,8 @@
   </a>
 </p>
 <hr/>
-<div align="center">
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <div align="center"> -->
+<!-- <h2 align="center">⚡ Stats ⚡</h2> -->
    
 <!-- <div align=center> -->
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&theme=tokyonight" alt="shaurya35" /></p> -->
