@@ -21,27 +21,19 @@
        style="max-width:100%;height:auto;" />
 </p> -->
 <hr/>
-
+<!--
 - 🔭 I’m currently working on an AI uptime monitoring platform [upbot](https://www.upbot.space/)
-
 - 🌱 I’m currently learning **Agentic AI**
-
 - 👯 I’m looking to collaborate on [n8n for content-writers](https://github.com/shaurya35/flowly)
-
 - 🤝 I’m looking for help with [AI Notetaker](https://github.com/shaurya35/nimble)
-
 - 👨‍💻 All of my projects are available at [github](https://github.com/shaurya35)
-
 - 📝 I post blogs on my [portfolio](https://www.shauryacodes.me/blogs)
-
 - 💬 Ask me about **Scaling Backends, Building Architectures**
-
 - 📫 How to reach me **shauryajha35@gmail.com**
-
 - 📄 Know about my experiences [here](https://twitter.com/_shaurya35)
-
 - ⚡ Fun fact **Meet me and you'll know (Maybe)**
 <hr/>
+-->
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -74,17 +66,17 @@
 <hr/>
 <div align="center">
 <h2 align="center">⚡ Stats ⚡</h2>
-
-<div align=center>
+   
+<!-- <div align=center> -->
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&theme=tokyonight" alt="shaurya35" /></p> -->
    
  <!--![GitHub Streak](https://streak-stats.demolab.com?user=shaurya35&theme=tokyonight&border_radius=9) -->
 
- <!--
+<!--
  ![GitHub Streak](https://github-readme-streak-stats-2-five.vercel.app/?user=shaurya35&theme=tokyonight&border_radius=9)
 <br/>
 <br/>
--->
+
 ![Shaurya's GitHub stats](https://github-readme-statistics-xi.vercel.app/api/top-langs/?username=shaurya35&layout=donut&theme=tokyonight)
 
 ![Shaurya's GitHub stats](https://github-readme-statistics-xi.vercel.app/api?username=shaurya35&show_icons=true&theme=tokyonight)
@@ -94,5 +86,6 @@
 <div align="center">
 <h2 align="center">⚡ My Badges ⚡</h2>
 
-[![An image of @shaurya35's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaurya35)](https://holopin.io/@shaurya35)
 
+[![An image of @shaurya35's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaurya35)](https://holopin.io/@shaurya35)
+-->
