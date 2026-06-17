@@ -6,7 +6,7 @@
 <!-- <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Shaurya;Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </h1> -->
-<h2 align="center">Full-Stack AI Engineer</h2>
+<h3 align="center">Full-Stack AI Engineer</h3>
 
 <div align="center">
   <p> I build products end-to-end and scalable backend systems, currently exploring Rust/Solana. </p>
