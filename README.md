@@ -6,7 +6,7 @@
 <!-- <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Shaurya;Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </h1> -->
-<h2 align="center">Full-Stack AI Engineer</h2>
+<h3 align="center">Full-Stack AI Engineer</h3>
 
 <!-- <p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p> -->
  <!-- <p align="center">
@@ -35,7 +35,7 @@
 <hr/>
 -->
 
-<h2 align="center">Connect with me:</h2>
+<h3 align="center">Connect with me:</h3>
 <!-- <p align="center"> -->
 <div align="center"> 
   <a href="mailto:shauryajha35@gmail.com">
@@ -51,7 +51,7 @@
 </p>
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <p align="center">
   <a href="https://www.shauryacodes.me/" >
 
