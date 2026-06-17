@@ -1,18 +1,20 @@
 
 ![logo](https://github.com/shaurya35/Shaurya35/blob/main/main.png)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shaurya35&label=Profile%20views&color=0e75b6&style=flat" alt="shaurya35" /> </p>
-<h1 align="center">
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=shaurya35&label=Profile%20views&color=0e75b6&style=flat" alt="shaurya35" /> </p> 
+-->
+<!-- <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Shaurya;Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
-</h1>
+</h1> -->
 <h3 align="center">A Full-Stack AI Engineer</h3>
 
 <!-- <p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p> -->
- <p align="center">
+ <!-- <p align="center">
   <a href="https://github.com/shaurya35">
     <img src="https://github-trophies.vercel.app/?username=shaurya35&title=MultiLanguage,LongTimeUser,Repositories,Commits,Followers,Issues,PullRequest,Stars" alt="GitHub Trophies" />
   </a>
 </p> 
+-->
 <!-- <p align="center">
   <img src="https://github-trophies.vercel.app/?username=shaurya35&title=MultiLanguage,LongTimeUser,Repositories,Commits,Followers,Issues,PullRequest,Stars&theme=dark"
        alt="GitHub Trophies"
@@ -77,9 +79,12 @@
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya35&theme=tokyonight" alt="shaurya35" /></p> -->
    
  <!--![GitHub Streak](https://streak-stats.demolab.com?user=shaurya35&theme=tokyonight&border_radius=9) -->
+
+ <!--
  ![GitHub Streak](https://github-readme-streak-stats-2-five.vercel.app/?user=shaurya35&theme=tokyonight&border_radius=9)
 <br/>
 <br/>
+-->
 ![Shaurya's GitHub stats](https://github-readme-statistics-xi.vercel.app/api/top-langs/?username=shaurya35&layout=donut&theme=tokyonight)
 
 ![Shaurya's GitHub stats](https://github-readme-statistics-xi.vercel.app/api?username=shaurya35&show_icons=true&theme=tokyonight)
