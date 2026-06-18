@@ -8,9 +8,9 @@
 </h1> -->
 <h3 align="center">Full-Stack AI Engineer</h3>
 
-<div align="center">
+<!-- <div align="center">
   <p> I build products end-to-end and scalable backend systems, currently exploring Rust/Solana. </p>
-</div>
+</div> -->
 <!-- <p align="left"> <a href="https://www.shauryacodes.me/"><img src="https://github-profile-trophy.vercel.app/?username=shaurya35" alt="shaurya35" /></a> </p> -->
  <!-- <p align="center">
   <a href="https://github.com/shaurya35">
